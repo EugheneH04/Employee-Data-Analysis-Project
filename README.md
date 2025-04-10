@@ -52,4 +52,5 @@ The dataset contains **458 rows** and **9 columns**, with the following attribut
 - 💸 **High Salary Roles**: Positions like PG and C have the highest pay
 - 📉 **Age-Salary Dynamics**: Weak correlation found — younger employees can still earn high pay
 
---
+## Conclusion
+This project demonstrates the application of data preprocessing, analysis, and visualization techniques to derive actionable insights. The findings can assist in workforce planning, salary optimization, and identifying talent trends.
